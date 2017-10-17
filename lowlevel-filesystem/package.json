@@ -1,7 +1,7 @@
 {
-  "name": "learn-events",
+  "name": "learn-low-level-file-system",
   "version": "1.0.0",
-  "description": "use this to learn events in node.js",
+  "description": "use this to learn low-level file-system in node.js",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js"
