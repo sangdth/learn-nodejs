@@ -1,0 +1,14 @@
+{
+  "name": "learn-events",
+  "version": "1.0.0",
+  "description": "use this to learn buffer in node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Sang Dang",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
